@@ -44,4 +44,32 @@ This project is still in progress, it is not complete.
 <h2>Business Analyst Responsibilities:</h2>
 
 - <b>Requirement Gathering and Elicitation</b>
-  - Engage with the client and stakeholders to understand the website's original purpose and issues.
+  - Conduct stakeholder interviews, workshops, and surveys to gather business needs.
+  - Identify functional and non-functional requirements.
+  - Use techniques like brainstorming, document analysis, and observation.
+  - Prioritize requirements using MoSCoW (Must-have, Should-have, Could-have, Won't-have) or other frameworks.
+ 
+- <b>Requirement Documentation</b>
+  - Create Business Requirement Documents (BRD) detailing high-level business needs.
+  - Develop Functional Requirement Documents (FRD) with detailed technical specifications.
+  - Maintain User Stories in Agile projects for development teams.
+  - Prepare Use Cases, Process Flows, and Data Flow Diagrams (DFDs).
+
+- <b>Stakeholder Management and Communication</b>
+  - Act as a liaison between business users, development teams, and project managers.
+  - Ensure that all stakeholders have a clear understanding of project objectives.
+  - Organize meetings, presentations, and status reports to keep teams aligned.
+  - Resolve conflicts between stakeholders regarding business needs.
+    
+- <b>Business Process Analysis and Improvement</b>
+  - Assess existing business processes and identify inefficiencies.
+  - Use techniques like SWOT analysis, GAP analysis, and Root Cause Analysis.
+  - Recommend process optimizations using frameworks like Lean and Six Sigma.
+  - Design improved workflows and document process changes.
+ 
+- <b>Solution Design and Validation</b>
+  - Collaborate with developers and architects to ensure technical solutions meet business needs.
+  - Work with UI/UX teams to refine user interface designs.
+  - Validate that proposed solutions align with business goals.
+  - Define system integration requirements where necessary.
+ 
